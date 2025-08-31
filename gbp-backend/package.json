@@ -1,0 +1,22 @@
+{
+  "name": "gbp-ai-backend",
+  "version": "1.0.0",
+  "description": "Backend server for AI-powered Google Business Profile review management SaaS. Handles authentication, review fetching, and AI-generated reply APIs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "google",
+    "reviews",
+    "ai",
+    "saas",
+    "express",
+    "node"
+  ],
+  "author": "squaredbingo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
