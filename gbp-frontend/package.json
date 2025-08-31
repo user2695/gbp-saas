@@ -1,5 +1,5 @@
 {
-  "name": "gbp",
+  "name": "gbp-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

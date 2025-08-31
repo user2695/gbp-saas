@@ -1,7 +1,7 @@
 import React from "react";
-import "./LandingPage.css";
+import "./App.css";
 
-export default function LandingPage() {
+export default function App() {
   return (
     <div className="landing-page">
       {/* Hero Section */}
